@@ -1,2 +1,0 @@
-# BiliShow
-BiliShow
